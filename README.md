@@ -1,5 +1,3 @@
-# Email_Responding_Agent
-This project will Read unread emails, send replies to the sender back with the requested information from the Company or given Knowledgebase
 
 # 🤖 AI Email Auto-Reply Agent
 
