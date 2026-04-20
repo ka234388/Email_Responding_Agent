@@ -4,6 +4,17 @@
 An intelligent email automation system that reads incoming emails, searches a custom Knowledge Base using RAG (Retrieval Augmented Generation), generates contextual replies using Google Gemini AI, and sends them automatically — all without human intervention.
 
 ---
+## 📸 Project Demo
+
+### Agent Running in Terminal
+![Agent Running](assets/agent-running.png)
+
+### Email Received
+![Email Received](assets/email-received.png)
+
+### Auto Reply Sent
+![Auto Reply](assets/auto-reply.png)
+---
 
 ## 📌 Project Demo Flow
 Incoming Email → Read via Gmail API → Search Knowledge Base (FAISS)
