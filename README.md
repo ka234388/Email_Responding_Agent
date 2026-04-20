@@ -7,13 +7,13 @@ An intelligent email automation system that reads incoming emails, searches a cu
 ## 📸 Project Demo
 
 ### Agent Running in Terminal
-![Agent Running](results/agent-running.png)
+![Agent Running](results/sendmail_QA.png)
 
 ### Email Received
 ![Email Received](results/received_to_supportTeam.png.png)
 
 ### Auto Reply Sent
-![Auto Reply](assets/auto-reply.png)
+![Auto Reply](results/auto-reply.png)
 ---
 
 ## 📌 Project Demo Flow
@@ -64,7 +64,6 @@ Email_agent/
 ├── .env # API keys (do NOT share)
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
 
 
 ---
