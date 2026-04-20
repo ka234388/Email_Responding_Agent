@@ -7,10 +7,10 @@ An intelligent email automation system that reads incoming emails, searches a cu
 ## 📸 Project Demo
 
 ### Agent Running in Terminal
-![Agent Running](results/sendmail_QA.png)
+![Agent Running](results/agent_running.png)
 
 ### Email Received
-![Email Received](results/received_to_supportTeam.png.png)
+![Email Received](results/received_to_supportTeam.png)
 
 ### Auto Reply Sent
 ![Auto Reply](results/auto-reply.png)
