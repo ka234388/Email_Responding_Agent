@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Sensitive credentials - NEVER upload these
+credentials.json
+token.json
+.env
+
+# Knowledge base PDF (optional - remove if you want it on GitHub)
+knowledge_base/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
