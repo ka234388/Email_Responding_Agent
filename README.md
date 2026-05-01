@@ -211,4 +211,4 @@ token.json
 ## 👩‍💻 Author
 
 **Karthika Ramasamy**
-Built as part of AI/ML coursework — AlgoAcademy
+Built as part of AI/ML Development
